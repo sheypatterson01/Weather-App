@@ -1,2 +1,2 @@
 # Weather-App
-Simple weather app practice 
+Simple project to practice fetching data, utalizing API's, and displaying them. 
